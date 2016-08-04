@@ -1,0 +1,73 @@
+_repo: The-Wars-of-the-Jews--Or-The-History-of-the-Destruction-of-Jerusalem_2850
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Whiston, William
+    birthdate: 1667
+    deathdate: 1752
+    gutenberg_agent_id: '1051'
+    url: http://www.gutenberg.org/2009/agents/1051
+    wikipedia: http://en.wikipedia.org/wiki/William_Whiston
+creator:
+  author:
+    agent_name: Josephus, Flavius
+    birthdate: 37
+    gutenberg_agent_id: '1050'
+    url: http://www.gutenberg.org/2009/agents/1050
+    wikipedia: http://en.wikipedia.org/wiki/Josephus
+description: "The Jewish War or Judean War (in full Flavius Josephus's Books of the\
+  \ History of the Jewish War against the Romans, Greek: Φλαυίου Ἰωσήπου ἱστορία Ἰουδαϊκοῦ\
+  \ πολέμου πρὸς Ῥωμαίους βιβλία, Phlauiou Iōsēpou historia Ioudaikou polemou pros\
+  \ Rōmaious biblia), also referred to in English as The Wars of the Jews, is a book\
+  \ written by Josephus, a Roman-Jewish historian of the 1st century.\nDivided into\
+  \ seven books, it opens with a summary of Jewish history from the capture of Jerusalem\
+  \ by the Seleucid ruler Antiochus IV Epiphanes in 164 BC to the first stages of\
+  \ the First Jewish–Roman War (Book I and II). The next five books detail the unfolding\
+  \ of the war, under Roman generals Vespasian and Titus, to the death of the last\
+  \ Sicarii. The book was written about 75 AD, originally in Josephus's \"paternal\
+  \ tongue\", probably Aramaic, though this version has not survived. It was later\
+  \ translated into Greek, probably under the supervision of Josephus himself.\nThe\
+  \ sources of knowledge of the First Jewish–Roman War are: this account of Josephus,\
+  \ the Talmud (Gittin 57b), Midrash Eichah, and the Hebrew inscriptions on the Jewish\
+  \ coins minted, and Book V of Tacitus' Histories.\nThe text also survives in an\
+  \ Old Slavonic version, as well as Hebrew which contains material not found in the\
+  \ Greek version, and which is lacking other material found in the Greek version.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2850'
+  wikidata: Q44276
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- History'
+- !lcc 'DS'
+- GITenberg
+title: The Wars of the Jews; Or, The History of the Destruction of Jerusalem
+url: http://www.gutenberg.org/ebooks/2850
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%80%E3%83%A4%E6%88%A6%E8%A8%98
+- https://ru.wikipedia.org/wiki/%D0%98%D1%83%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0
+- https://fr.wikipedia.org/wiki/Guerre_des_Juifs
+- https://nl.wikipedia.org/wiki/De_Joodse_oorlog
+- https://id.wikipedia.org/wiki/Perang_Yahudi
+- https://pt.wikipedia.org/wiki/A_Guerra_dos_Judeus
+- https://ru.wikisource.org/wiki/%D0%98%D1%83%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_(%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%A4%D0%BB%D0%B0%D0%B2%D0%B8%D0%B9/%D0%A7%D0%B5%D1%80%D1%82%D0%BE%D0%BA)
+- https://de.wikisource.org/wiki/Juedischer_Krieg
+- https://de.wikipedia.org/wiki/J%C3%BCdischer_Krieg_(Flavius_Josephus)
+- https://el.wikisource.org/wiki/%CE%99%CE%BF%CF%85%CE%B4%CE%B1%CF%8A%CE%BA%CF%8C%CF%82_%CE%A0%CF%8C%CE%BB%CE%B5%CE%BC%CE%BF%CF%82
+- https://en.wikipedia.org/wiki/The_Jewish_War
+- https://es.wikipedia.org/wiki/La_guerra_de_los_jud%C3%ADos
+- https://en.wikisource.org/wiki/The_War_of_the_Jews
+- https://bg.wikipedia.org/wiki/%D0%AE%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0
+- https://tl.wikipedia.org/wiki/Ang_Digmaang_Hudyo
+- https://it.wikipedia.org/wiki/Guerra_giudaica_(Flavio_Giuseppe)
+- https://uk.wikipedia.org/wiki/%D0%AE%D0%B4%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0
+- https://la.wikipedia.org/wiki/De_bello_Iudaico
+- https://be.wikipedia.org/wiki/%D0%86%D1%9E%D0%B4%D0%B7%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0
+- https://ca.wikipedia.org/wiki/La_guerra_dels_jueus
+- https://he.wikipedia.org/wiki/%D7%9E%D7%9C%D7%97%D7%9E%D7%AA_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99%D7%9D
